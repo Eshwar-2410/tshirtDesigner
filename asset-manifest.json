@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eshwar-2410/t_shirt/static/css/main.16dc1dae.css",
+    "main.js": "/Eshwar-2410/t_shirt/static/js/main.b7d7fc03.js",
+    "static/media/t_shirt.png": "/Eshwar-2410/t_shirt/static/media/t_shirt.7ea3a4bd9cbe2bf2e403.png",
+    "index.html": "/Eshwar-2410/t_shirt/index.html",
+    "main.16dc1dae.css.map": "/Eshwar-2410/t_shirt/static/css/main.16dc1dae.css.map",
+    "main.b7d7fc03.js.map": "/Eshwar-2410/t_shirt/static/js/main.b7d7fc03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16dc1dae.css",
+    "static/js/main.b7d7fc03.js"
+  ]
+}
